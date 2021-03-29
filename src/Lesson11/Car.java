@@ -38,6 +38,7 @@ class CarTest {
         changeColor(c1,c2);
         System.out.println(c1.color+" "+c2.color);
 
+        System.out.println(c1.kolDoor);
     }
 
 
